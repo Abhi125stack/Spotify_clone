@@ -14,4 +14,6 @@ The user interface is designed to resemble the sleek and modern design of the Sp
 Open index.html in your web browser.
 Use the play/pause button to control audio playback.
 Drag the progress bar to navigate through the audio track.
-![bg_spotify](https://github.com/Abhi125stack/Spotify_clone/assets/142906871/1f21b13a-8678-4b48-b958-8048be42af7f)
+
+![image](https://github.com/Abhi125stack/Spotify_clone/assets/142906871/9ede6d95-d3c3-4218-830a-e1c1efdbbb01)
+
